@@ -27,7 +27,38 @@ li {
     line-height: 1.5;
 }
 
+#jdl {
+    font-family: "Noto Sans", sans-serif;
+    color:black;
+    text-align: center;
+}
+
+#member {
+    font-family: "Noto Sans", sans-serif;
+    width: 100px;
+    display: inline-block;
+}
+
+#mnama {
+    font-family: "Noto Sans", sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+}
+
+#mposisi {
+    font-family: "Noto Sans", sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+}
+
 #paragraf {
+    font-family: "Noto Sans", sans-serif;
     text-align: justify;
     width: 80%;
     margin: 0 auto;

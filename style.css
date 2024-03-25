@@ -19,6 +19,14 @@ body {
     border-radius: 5px;
 }
 
+ol {
+    margin-left: 70px;
+}
+li {
+    margin-bottom: 20px;
+    line-height: 1.5;
+}
+
 #paragraf {
     text-align: justify;
     width: 80%;
